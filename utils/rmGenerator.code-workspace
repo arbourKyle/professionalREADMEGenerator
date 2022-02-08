@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "UTOR-VIRT-FSF-FT-01-2022-U-LOL",
+			"path": "..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503
+	}
+}
