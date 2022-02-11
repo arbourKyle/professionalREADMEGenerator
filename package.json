@@ -9,7 +9,7 @@
   "author": "kyle t. arbour",
   "license": "Apache-2.0",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2"
   },
   "repository": {
     "type": "git",
