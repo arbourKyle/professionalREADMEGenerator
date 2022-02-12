@@ -23,10 +23,7 @@ This application generates a custom README for you to use
 This product is under the MIT License.
 
 ## Installation
-You can clone this repository and run the index.js in a terminal
-
-## Usage
-You can visit this link or clone the repository
+You can clone this repository and run the index.js file in a terminal with nodeJS installed
 
 ## Contributing
 Feel free to fork this project and make changes for review
